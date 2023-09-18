@@ -27,8 +27,8 @@
 
 <h3>Languages and Tools I've Used</h3>
 <br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,ruby,rails,js,react,nextjs,bootstrap,tailwind,git,github,netlify,vercel,vscode&perline=7" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,laravel,nodejs,nextjs,react,vue,tailwind,git&perline=7" />
 </p>
 <br><br>
 
