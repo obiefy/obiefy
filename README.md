@@ -24,18 +24,14 @@
 
 <p align="left"></p>
 
-
 <h3>Languages and Tools I've Used</h3>
-<br>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,laravel,nodejs,nextjs,react,vue,tailwind,git&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,laravel,nodejs,nextjs,react,vue,tailwind,git" />
 </p>
-<br><br>
 
 <p align="left"></p>
 
 <h3>My GitHub Stats and Streak</h3>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=obiefy&show_icons=true&count_private=true&hide=issues,contribs&theme=react" alt="GitHub stats" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=usmcamgrimm&show_icons=true&count_private=true&hide=issues,contribs&theme=react" alt="GitHub stats" /></p>
-
-<p align="center"><img src="https://streak-stats.demolab.com?user=usmcamgrimm&theme=react&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD0000" alt="Adrian's GitHub streak stats" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=obiefy&theme=react&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD0000" alt="Adrian's GitHub streak stats" /></p>
